@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif; 
+}
+
+.col-sm-4 {
+  background-color: rgb(255, 64, 64);
+}
+.col-sm-3 {
+  background-color: rgb(11, 211, 238);
+}
+.col-sm-5 {
+  background-color: rgb(238, 235, 78);
+}
