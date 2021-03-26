@@ -1,5 +1,5 @@
-let array = [4, 6, 8, 9, 5];
-function myArray() {
+
+function myArray(array) {
   for (let i = 0; i < array.length; i++) {
     if (array[i] % 2 === 0) {
       console.log("even", array[i]);
@@ -8,5 +8,4 @@ function myArray() {
     }
   }
 }
-myArray();
 module.exports = myArray;  //for text use
